@@ -1,2 +1,3 @@
 # Python-Pandas-Numpy-Folium
 Python Scripts for Multi layer maps and A lot more..
+1.Variables 2. Functions,3.Datatypes,4.conditions,5.Looping and user input,6 File Handling,8 Building a Text Generator,9 Data Analysis with Pandas,10 Numpy,11.Leaflet Webmaps with python and folium,12 Building a website Blocker,13 Building a Website with Python and Flask,14 Building GUI with Tkinter,15 Python for interacting with SQLite and PostGRE SQL,16 Building a desktop database application,17 OOPS,18 Python for image and video Processing,19 Webcam Motion Destector,20 Data Visualization on Browser,21 Webscraping,22 Scraping Real estate property data from web,23 Building a web based financial graph,24 Data Collector  Web app with postgreSQL and Flask,25 Building a Geocoder web service
